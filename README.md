@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SethuSS
+- 👋 Hi, I’m @Sethu Kumar
 - 👀 I’m interested in Reactjs,Nextjs and Js
 - 📫 How to reach me sethukumar0001@gmail.com
 
